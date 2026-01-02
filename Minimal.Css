@@ -1,0 +1,32 @@
+.product-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 10px;
+}
+
+.filters button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#loginSection, #profileSection {
+  max-width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+}
+
+button {
+  width: 100%;
+  padding: 8px;
+  background: #003366;
+  color: white;
+  border: none;
+}
